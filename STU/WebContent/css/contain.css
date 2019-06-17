@@ -1,0 +1,56 @@
+@charset "UTF-8";
+		body {
+			text-align:center;
+			}
+			.check {
+				padding: 30px 30px;
+			}	
+			form {
+				display: inline;
+			}
+			.contain {
+				width: 1400px;	
+				padding-top: 20px;
+				padding-left: 400px;
+				text-align: center;
+			}
+			
+			button {
+				margin-left: 10px;
+			}
+			.search {
+				display: inline-block;
+				margin-left: 500px;
+			}
+			
+			.add {
+				float: right;
+				margin-right: 80px;
+			}
+			.pageNav{
+				margin-left: 200px;
+			}
+			#a1{
+			width:1200px;
+			height:400px;
+			padding-top:50px;
+			}
+			#table{
+			text-align: center;
+			}
+			#a2{
+			
+			width:1300px;
+			height:800px;
+			padding-left:100px;
+		
+			}
+			#a3{	
+			padding-right: 60px;
+			}
+			#a4{
+			width: auto;
+			margin:0 auto;
+			padding-left:100px;
+			float:right;
+			}
